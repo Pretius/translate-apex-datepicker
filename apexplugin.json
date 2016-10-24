@@ -1,0 +1,33 @@
+{
+  "name" : "Pretius Translate-APEX.com Datepicker",
+  "version" : "1.0",
+  "description" : "The plugin is dynamic action plugin implementing datepicker with various world calendars including islamic, persian, hebrew and many more. This plugin is part of translate-apex.com project.",
+  "keywords" : ["calendar", "date", "datepicker", "global", "Translate APEX", "international", "globalization"],
+  "homepage" : "https://github.com/Pretius/apex-nested-reports",
+  "bugs" : {
+    "url" : "https://github.com/Pretius/apex-nested-reports/issues",
+    "email" : "apex@pretius.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Micha³ Jaroñ",
+    "email" : "mjaron@pretius.com",
+    "url" : "http://pretius.com/technologies/oracle-apex/"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Pretius/apex-translate-datepicker.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "apex.translate.datepicker",
+        "type" : "dynamic action",
+        "demo" : "http://apex.pretius.com/apex/f?p=105:APEX_TRANSLATE_DATEPICKER",
+        "previewImage" : "https://raw.githubusercontent.com/Pretius/apex-translate-datepicker/master/preview.gif"
+      }
+    }
+  }
+}
