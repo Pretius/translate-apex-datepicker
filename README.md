@@ -1,6 +1,6 @@
 #Pretius Translate-APEX.com Datepicker
-##### Oracle APEX dynamic action plugin v1.0
-The plugin is dynamic action plugin implementing datepicker with various world calendars including islamic, persian, hebrew and many more. This plugin is part of translate-apex.com project.
+##### Oracle APEX Item plugin v1.0
+The plugin is Item type plugin implementing datepicker with various world calendars including islamic, persian, hebrew, thai and many more. This plugin is part of [translate-apex.com](http://www.translate-apex.com) project.
 
 The plugin is based on jQuery Calendars by Keith Wood (http://keith-wood.name/calendars.html).
 
