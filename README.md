@@ -9,7 +9,7 @@ Live demo, instructions and more details about the plugin are available directly
 ##Authors
 Author | Twitter | E-mail
 -------|---------|-------
-Micha≥ JaroÒ | [@JaronMichal](https://twitter.com/JaronMichal) | mjaron@pretius.com
+Micha≈Ç Jaro≈Ñ | [@JaronMichal](https://twitter.com/JaronMichal) | mjaron@pretius.com
 
 **Pretius Sp. z o.o. Sp. K.**  
 Address: Przy Parku 2/2; 02-384 Warsaw, Poland  
